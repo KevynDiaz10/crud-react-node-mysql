@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://KevynDiaz10.github.io/crud-front',
+  base: 'https://KevynDiaz10.github.io/crud-react-node-mysql',
 })
