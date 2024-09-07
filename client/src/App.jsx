@@ -143,7 +143,7 @@ export default function App() {
     <>
       <div className="d-flex flex-column min-vh-100">
         <Navbar />
-        <div className="container card text-center mt-1 w-50">
+        <div className="container card text-center mt-1 w-50 table-responsive">
           <div className="card-header">Gestion de clientes</div>
           <div className="card-body">
             <div className="input-group mb-3">
